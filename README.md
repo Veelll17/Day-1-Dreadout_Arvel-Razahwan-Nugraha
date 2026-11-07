@@ -189,28 +189,6 @@ Day-1-Dreadout_Arvel-Razahwan-Nugraha/
 
 ---
 
-## ✅ Checklist Pemenuhan Ketentuan Tugas
-
-Berikut adalah daftar periksa kesesuaian tugas terhadap seluruh ketentuan yang ditetapkan panitia pada website Expectik:
-
-- [x] **Akun GitHub Aktif**: Memiliki akun GitHub aktif atas nama [@Veelll17](https://github.com/Veelll17).
-- [x] **Repository Baru**: Repositori dibuat baru khusus untuk penugasan Day 1.
-- [x] **Visibilitas Public**: Repositori berstatus *Public* dan dapat diakses terbuka oleh panitia.
-- [x] **Format Nama Sesuai Ketentuan**: `Day-1-Dreadout_Arvel-Razahwan-Nugraha` (Format: `Day-1-(Nama_Kelompok)_Nama Lengkap`).
-- [x] **Kelengkapan Isi README.md**:
-  - [x] Nama lengkap peserta (**Arvel Razahwan Nugraha**)
-  - [x] Deskripsi singkat mengenai repository
-  - [x] Tujuan atau kegunaan repository
-  - [x] Informasi lengkap kegiatan workshop
-- [x] **Dokumentasi Kegiatan Workshop**:
-  - [x] Rangkuman materi yang disampaikan pemateri
-  - [x] Poin-poin penting dan pengetahuan baru yang dipelajari
-  - [x] **Pendapat pribadi tentang Day 1 Proyek Workshop**
-- [x] **Kerapihan & Struktur**: Seluruh dokumen disusun rapi dan terstruktur menggunakan standar GitHub-Flavored Markdown.
-- [x] **Tautan Valid**: Tautan repository siap dikumpulkan melalui mekanisme pengumpulan resmi website Expectik sebelum batas waktu (Sabtu, 7 November 2026 pukul 23.59 WIB).
-
----
-
 <p align="center">
   <b>TIKMENGAJAR 2026 • Himpunan Mahasiswa Informatika dan Komputer (HIMATIK) • Politeknik Negeri Jakarta</b><br>
   <i>"Kenali Potensimu, Temukan Arahmu, Berkembang Bersama TIK"</i>
